@@ -1,0 +1,71 @@
+{
+  "books": [
+    {
+      "title": "sapiens:#a#brief#history#of#humankind",
+      "author": "Yuval Noah Harari",
+      "ISBN": "9780062316110",
+      "isAvaliable": "true",
+      "LocalDate":"2024-09-08"
+    },
+    {
+      "title": "the#night#circus",
+      "author": "Erin Morgenstern",
+      "ISBN": "9780385534635",
+      "isAvaliable": "true",
+      "LocalDate":"2024-09-08"
+    },
+    {
+      "title": "educated:#a#memoir",
+      "author": "Tara Westover",
+      "ISBN": "9780399590504",
+      "isAvaliable": "true",
+      "LocalDate":"2024-09-08"
+    },
+    {
+      "title": "the#alchemist",
+      "author": "Paulo Coelho",
+      "ISBN": "9780062315007",
+      "isAvaliable": "true",
+      "LocalDate":"2024-09-08"
+    },
+    {
+      "title": "the#road",
+      "author": "Cormac McCarthy",
+      "ISBN": "9780307387899",
+      "isAvaliable": "true",
+      "LocalDate":"2024-09-08"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "books": [],
+      "fines": "0"
+    },
+    {
+      "name": "John Smith",
+      "email": "john.smith@email.com",
+      "books": [],
+      "fines": "0"
+    },
+    {
+      "name": "Emily Johnson",
+      "email": "emily.johnson@emailprovider.com",
+      "books": [],
+      "fines": "0"
+    },
+    {
+      "name": "David Lee",
+      "email": "dlee@example.net",
+      "books": [],
+      "fines": "0"
+    },
+    {
+      "name": "Sarah Williams",
+      "email": "swilliams@emaildomain.com",
+      "books": [],
+      "fines": "0"
+    }
+  ]
+}

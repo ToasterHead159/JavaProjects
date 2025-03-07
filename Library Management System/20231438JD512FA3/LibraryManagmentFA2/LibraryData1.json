@@ -1,0 +1,61 @@
+{
+  "books": [
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "ISBN": "9780062316110",
+      "isAvliable":"true",
+      "LocalDate":"15/05/2010"
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "ISBN": "9780385534635",
+      "isAvliable":"true",
+      "LocalDate":"15/05/2010"
+    },
+    {
+      "title": "Educated: A Memoir",
+      "author": "Tara Westover",
+      "ISBN": "9780399590504",
+      "isAvliable":"true",
+      "LocalDate":"15/05/2010"
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "ISBN": "9780062315007",
+      "isAvliable":"true",
+      "LocalDate":"15/05/2010"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "ISBN": "9780307387899",
+      "isAvliable":"true",
+      "LocalDate":"15/05/2010"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com"
+    },
+    {
+      "name": "John Smith",
+      "email": "john.smith@email.com"
+    },
+    {
+      "name": "Emily Johnson",
+      "email": "emily.johnson@emailprovider.com"
+    },
+    {
+      "name": "David Lee",
+      "email": "dlee@example.net"
+    },
+    {
+      "name": "Sarah Williams",
+      "email": "swilliams@emaildomain.com"
+    }
+  ]
+}
