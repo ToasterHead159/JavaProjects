@@ -1,0 +1,12 @@
+App,Fix all the bugs,Started,Work,
+App,Fix app bugs,Started,Work,
+Website Redesign,Update the website to a modern look and feel,In Progress,Home,
+Marketing Campaign,Develop a new marketing campaign for the product launch,Stalled,School,
+Client Meeting,Prepare for a meeting with a potential new client,Started,Work,
+Code Review,Review the code for the new feature,Completed,Work,
+Financial Report,Prepare the monthly financial report,Stalled,Home,
+Research Paper,Write a research paper on AI ethics,In Progress,School,
+Team Building,Organize a team-building activity,Stalled,Work,
+Bug Fix,Fix the critical bug in the production environment,In Progress,Work,
+Content Creation,Write blog posts and social media content,Stalled,Personal,
+Server Migration,Migrate the server to a new data center,Started,Home
